@@ -30,12 +30,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monospace Light (Project IDX)",
+        "label": "Monospace Dark (Project IDX)",
         "uiTheme": "vs-dark",
         "path": "./themes/monospace-dark-color-theme.json"
       },
       {
-        "label": "Monospace Dark (Project IDX)",
+        "label": "Monospace Light (Project IDX)",
         "uiTheme": "vs",
         "path": "./themes/monospace-light-color-theme.json"
       }
