@@ -2,27 +2,24 @@
 
 Android Studio color theme contains two basic themes, Darcula and Intellij light.
 
-#### [GitHub Repository](https://github.com/DevShayan/android-studio-color-theme)&nbsp;&nbsp;|&nbsp;&nbsp;[Report an issue](https://github.com/DevShayan/android-studio-color-theme/issues)
-
-## Supported Languages
-* Java - XML
-* C++
-* HTML - CSS - JavaScript
+#### [GitHub Repository](https://github.com/DevShayan/idx-color-theme)&nbsp;&nbsp;|&nbsp;&nbsp;[Report an issue](https://github.com/DevShayan/idx-color-theme/issues)
 
 ## Applying theme
 
 ### To apply theme:
-* Ctrl+Shift+P -> Preferences: Color Theme -> Darcula (Android Studio)
-* Ctrl+Shift+P -> Preferences: Color Theme -> Intellij light (Android Studio)
+* Ctrl+Shift+P -> Preferences: Color Theme -> Monospace Light (Project IDX)
+* Ctrl+Shift+P -> Preferences: Color Theme -> Monospace Dark (Project IDX)
 
 ## Preview
 
-* Darcula
+* Monospace Light
 
-![Preview 1](preview/preview_darcula.png)
+<!-- ![Preview 1](preview/preview_darcula.png) -->
+error
 
-* Intellij light
+* Monospace Dark
+error
 
-![Preview 1](preview/preview_intellij_light.png)
+<!-- ![Preview 1](preview/preview_intellij_light.png) -->
 
 **Enjoy!**

@@ -1,8 +1,8 @@
 {
-  "name": "pycharm-color-theme",
-  "displayName": "Pycharm Default Themes",
-  "description": "Default themes used in Pycharm",
-  "version": "1.0.0",
+  "name": "idx-color-theme",
+  "displayName": "Project IDX Default Themes",
+  "description": "Default themes used in Project IDX",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^0.0.1"
   },
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevShayan/pycharm-color-theme.git"
+    "url": "https://github.com/DevShayan/idx-color-theme.git"
   },
   "license": "MIT",
   "keywords": [
-    "android studio color theme",
-    "android studio darcula",
-    "intellij light",
-    "android studio theme",
-    "darcula theme",
-    "intellij theme"
+    "idx color theme",
+    "idx theme",
+    "project idx theme",
+    "monospace theme",
+    "monospace dark",
+    "monospace light"
   ],
   "icon": "icon.png",
   "categories": [
